@@ -3,7 +3,7 @@ import "../../App.css";
 import { Button, ButtonV2 } from "../button/Button";
 import { useHistory } from "react-router-dom";
 import "./HeroSection.css";
-import video from "../../videos/Video-1.mp4";
+import video from "../../videos/Sreekrishna-1.m4v";
 
 function HeroSection() {
   const history = useHistory();
